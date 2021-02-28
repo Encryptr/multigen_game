@@ -8,7 +8,7 @@ For now, this page is simply a backup of documentation for the game. You will fi
 
 ## Link
 
-You may view the anonymous port of the game at [https://www.themathjester.com/encryptr-coa](the Lead Dev's personal website) or by requesting access to the [https://gitlab.com/chozorho/conquest/](anonymous gitlab repo).
+You may view the anonymous port of the game at [the Lead Dev's personal website](https://www.themathjester.com/encryptr-coa) or by requesting access to [the anonymous gitlab repo](https://gitlab.com/chozorho/conquest/).
 
 ## License
 
